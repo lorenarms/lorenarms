@@ -29,7 +29,7 @@ For more information about me, please check out my website!
 Lately I've been getting interested in machine learning and artificial intelligence, so to practice I built a few models and trained them on some various data sets. I wanted to explore categorical and regressive data types, and even a little bit of unstructured data in the form of image recognition. All of the models were built in Jupyter Notebooks using the SciKitLearn library. I'm also working on a repo of just data visualizations, but that one isn't ready yet so for now, enjoy these!
 </p>
 
-[Link to the Docs!](ttps://github.com/lorenarms/Machine_Learning)
+[Link to the Docs!](https://github.com/lorenarms/Machine_Learning)
 
 ---
 
