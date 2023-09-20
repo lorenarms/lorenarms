@@ -7,7 +7,7 @@
 </p>
 
  - [ ] write clean javascript code meant for front end UI's
- - [ ] build React applications to integrate with my C# API's
+ - [ ] build React frontends to integrate with my C# API's
  - [ ] use SignalR to develop a global-timer application
 
 ### Competencies
