@@ -20,7 +20,9 @@
 <p>If you are a fellow developer and have some ideas that you'd like to collaborate with me on, I am totally open to that. Likewise, if any of my above "currently learning" projects are of interest to you or you think you can lend a hand in their development, please reach out!</p>
 
 For more information about me, please check out my website!
-### [My Site](https://artllj.com)
+<h3>
+  <a href="https://artllj.com" target="_blank">My Site</a>
+</h3>
 
 ## Projects and Curiosities
 ### [Machine Learning Explorations](https://github.com/lorenarms/Machine_Learning)
