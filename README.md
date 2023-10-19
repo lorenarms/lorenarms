@@ -21,7 +21,7 @@
 
 For more information about me, please check out my website!
 <h3>
-  <a href="https://artllj.com" target="_blank">My Personal Website with lots more information...</a>
+  🔗 <a href="https://artllj.com" target="_blank">My Personal Website with lots more information...</a>
 </h3>
 
 ## Projects and Curiosities
