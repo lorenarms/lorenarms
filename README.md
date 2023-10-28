@@ -12,7 +12,7 @@
 
 ### Competencies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,angular,html,css,visualstudio,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,py,angular,html,css,visualstudio,ai,ps,pr)](https://skillicons.dev)
 
 
 
