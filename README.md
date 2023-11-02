@@ -3,12 +3,10 @@
   I'm Lawrence, and I'm transitioning into software development as a career! It's something I've been interested in since I was just a young lad, and now that I'm a grown up I'm excited to begin a new chapter of my life in the profession. Currently I am the lead programmer and engineer at a Las Vegas escape room franchise, and I spend my free time honing my problem-solving skills through software solutions. 
 </p>
 <p>
-🖳 Currently I am learning how to:
+🖳 Currently I am:
 </p>
 
- - [ ] write clean javascript code meant for front end UI's
- - [ ] build React frontends to integrate with my C# API's
- - [ ] use SignalR to develop a global-timer application
+ - [ ] creating a Blazor web application for my current employer
 
 ### Competencies
 
