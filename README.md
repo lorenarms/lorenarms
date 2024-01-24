@@ -11,7 +11,7 @@
 
 ### Competencies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,py,anaconda,azure,html,css,visualstudio,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,py,anaconda,azure,html,css,visualstudio,ai,ps,pr)](https://artllj.com)
 
 
 
