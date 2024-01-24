@@ -6,11 +6,12 @@
 🖳 Currently I am:
 </p>
 
- - [ ] creating a Blazor web application for my current employer
+ - [ ] integrating myself into a software development team
+ - [ ] continuing my pursuit of Data Science as a hobby
 
 ### Competencies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,py,angular,html,css,visualstudio,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,py,anaconda,azure,html,css,visualstudio,ai,ps,pr)](https://skillicons.dev)
 
 
 
