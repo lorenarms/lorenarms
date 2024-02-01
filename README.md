@@ -7,7 +7,7 @@
 </p>
 
  - [ ] integrating myself into a software development team
- - [ ] continuing my pursuit of Data Science as a hobby
+ - [ ] trying to motivate myself to finish my YouTube series on Blazor Webassembly
 
 ### Competencies
 
